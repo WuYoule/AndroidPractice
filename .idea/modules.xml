@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidPractice.iml" filepath="$PROJECT_DIR$/AndroidPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" filepath="$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAnimFragment/myanimfragment.iml" filepath="$PROJECT_DIR$/MyAnimFragment/myanimfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myanimfragment2/myanimfragment2.iml" filepath="$PROJECT_DIR$/myanimfragment2/myanimfragment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydrawerlayout/mydrawerlayout.iml" filepath="$PROJECT_DIR$/mydrawerlayout/mydrawerlayout.iml" />
+    </modules>
+  </component>
+</project>
